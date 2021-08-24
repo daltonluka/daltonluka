@@ -1,4 +1,4 @@
-SEO Consultant
+Dalton Luka is an SEO Consultant
 
 <!---
 daltonluka/daltonluka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
